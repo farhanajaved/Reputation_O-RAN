@@ -1,0 +1,214 @@
+Script started
+Total number of write accounts: 2
+Total number of read accounts: 4
+Starting iteration 1
+Processing recordPenaltyAmount transactions for iteration 1
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 15.285 seconds
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 19.686 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 1
+Starting calculateFinalBill transactions for iteration 1
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 16.656 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 15.913 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 1
+Starting getBillDetails transactions for iteration 1
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.487 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.557 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.793 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.803 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 1
+Starting iteration 2
+Processing recordPenaltyAmount transactions for iteration 2
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 11.127 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 11.261 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 2
+Starting calculateFinalBill transactions for iteration 2
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 15.074 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 15.141 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 2
+Starting getBillDetails transactions for iteration 2
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.47 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.49 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.445 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.524 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 2
+Starting iteration 3
+Processing recordPenaltyAmount transactions for iteration 3
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 35.377 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 35.119 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 3
+Starting calculateFinalBill transactions for iteration 3
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 19.309 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 19.577 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 3
+Starting getBillDetails transactions for iteration 3
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.524 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.544 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.443 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.618 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 3
+Starting iteration 4
+Processing recordPenaltyAmount transactions for iteration 4
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 8.097 seconds
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 11.269 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 4
+Starting calculateFinalBill transactions for iteration 4
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 26.92 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 27.394 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 4
+Starting getBillDetails transactions for iteration 4
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.445 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.5 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.457 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.615 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 4
+Starting iteration 5
+Processing recordPenaltyAmount transactions for iteration 5
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 11.557 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 11.363 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 5
+Starting calculateFinalBill transactions for iteration 5
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 19.531 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 19.836 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 5
+Starting getBillDetails transactions for iteration 5
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.44 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.492 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.469 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.428 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 5
+Starting iteration 6
+Processing recordPenaltyAmount transactions for iteration 6
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 11.491 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 11.327 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 6
+Starting calculateFinalBill transactions for iteration 6
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 15.504 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 15.092 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 6
+Starting getBillDetails transactions for iteration 6
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.455 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.416 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.448 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.511 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 6
+Starting iteration 7
+Processing recordPenaltyAmount transactions for iteration 7
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 12.168 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 11.47 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 7
+Starting calculateFinalBill transactions for iteration 7
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 7.176 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 15.124 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 7
+Starting getBillDetails transactions for iteration 7
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.432 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.574 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.472 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.42 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 7
+Starting iteration 8
+Processing recordPenaltyAmount transactions for iteration 8
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 16.277 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 16.15 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 8
+Starting calculateFinalBill transactions for iteration 8
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 15.023 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 15.571 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 8
+Starting getBillDetails transactions for iteration 8
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.495 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.615 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.426 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.82 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 8
+Starting iteration 9
+Processing recordPenaltyAmount transactions for iteration 9
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 11.631 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 11.02 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 9
+Starting calculateFinalBill transactions for iteration 9
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 19.011 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 19.444 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 9
+Starting getBillDetails transactions for iteration 9
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.495 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.719 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.492 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.424 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 9
+Starting iteration 10
+Processing recordPenaltyAmount transactions for iteration 10
+Processing batch 1 for recordPenaltyAmount
+recordPenaltyAmount for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 24752, Time Taken: 7.175 seconds
+recordPenaltyAmount for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 24752, Time Taken: 7.099 seconds
+Completed batch 1 for recordPenaltyAmount
+Completed all recordPenaltyAmount transactions for iteration 10
+Starting calculateFinalBill transactions for iteration 10
+Processing batch 1 for calculateFinalBill
+calculateFinalBill for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Gas Used: 28202, Time Taken: 31.323 seconds
+calculateFinalBill for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Gas Used: 28202, Time Taken: 30.977 seconds
+Completed batch 1 for calculateFinalBill
+Completed all calculateFinalBill transactions for iteration 10
+Starting getBillDetails transactions for iteration 10
+Processing batch 1 for getBillDetails
+getBillDetails for 0x3f07a8d2f0c32c594F6544547047E7A9694eA07F, Time Taken: 0.439 seconds
+getBillDetails for 0xfCAABA9f9c779a60D23e6CB8c51109E07Eecc96C, Time Taken: 0.751 seconds
+getBillDetails for 0xCAB59dCB2F67f9393d0e4B1aDA4A44Dc46d06Ef7, Time Taken: 0.474 seconds
+getBillDetails for 0x027081Bdc50d261986D1A325e41eC320C142e880, Time Taken: 0.475 seconds
+Completed batch 1 for getBillDetails
+Completed all getBillDetails transactions for iteration 10
+Script completed
