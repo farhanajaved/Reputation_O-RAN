@@ -1,5 +1,5 @@
 
-# Trustworthy Reputation for Federated Learning in O-RAN Leveraging Blockchain and Smart Contracts
+# Trustworthy Reputation for Federated Learning in O-RAN Using Blockchain and Smart Contracts
 
 ## Abstract
 
