@@ -12,11 +12,10 @@ By deploying the framework on a scalable Layer 2 blockchain (Polygon) testnet an
 
 ## Overview of Smart Contracts
 
-### Smart Contracts Involved
-
-1. **CalculateReputation.sol** - Manages the reputation system, calculating and updating reputation scores based on the normalized mean square error of contributions from federated learning clients.
-2. **ClientRegistration.sol** - Handles the registration of clients to the federated learning framework. It ensures that only authorized clients can submit data and participate in the learning process.
-3. **WeightSubmission.sol** - Facilitates the submission of model weights by clients. It verifies the authenticity and correctness of submissions, maintaining a record on the blockchain.
+1. **RegistrationClient.sol** - Handles the onboarding and revalidation of Aggregated Service Providers (AGSPs) and Client Service Providers (CLSPs). It ensures that every participant in the Federated Learning (FL) process is authorized and uniquely identified by an Ethereum address. Newly registered clients trigger a `ClientRegistered` event, creating a transparent and immutable record of all participants.
+2. **PerformanceSubmission.sol** - Manages the submission and storage of performance metrics (e.g., NMSE values) from CLSPs after each Federated Learning round. By securely recording these metrics on-chain, it ensures accountability and verifiability of the model performance data. The smart contract integrates with `FetchOracle.sol` to bring off-chain data on-chain via a blockchain oracle, maintaining the integrity of performance metrics submitted by CLSPs.
+3. **FetchOracle.sol** - Acts as an intermediary between off-chain data sources (e.g., the Chainlink decentralized oracle network) and the on-chain environment. It retrieves performance metrics that CLSPs submit through the Chainlink Adapter and makes them accessible to the `PerformanceSubmission.sol` contract, ensuring accuracy and security in the data transmission process.
+4. **ReputationCalculation.sol** - Evaluates and updates the reputation scores of CLSPs based on their submitted performance metrics. It resets scores at the start of new learning phases, recalculates reputations using the submitted NMSE values, and selects the top performers for subsequent rounds. All reputation calculations and updates are recorded on-chain, providing a transparent and tamper-proof record of each participant’s standing over time.
 
 ## Installation and Running Instructions Using Hardhat
 
