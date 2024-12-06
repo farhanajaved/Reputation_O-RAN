@@ -8,7 +8,7 @@ By deploying the framework on a scalable Layer 2 blockchain (Polygon) testnet an
 
 ---
 
-![Proposed Framework for Blockchain and Federated Learning in O-RAN](Proposed_Framework_Blockchain_FL_Reputtaion.png)
+![Proposed Framework for Blockchain and Federated Learning in O-RAN](RAN-BC-OJCOMs-1.png)
 
 ## Overview of Smart Contracts
 
